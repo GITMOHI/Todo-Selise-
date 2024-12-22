@@ -9,7 +9,7 @@
 
 
 ## Build with ❤️ and 
-HTML5, Vanila CSS, Vanila Js
+HTML5,Vanila CSS,Vanila Js
 
 You can use this for managing your work🔥
 

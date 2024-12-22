@@ -4,12 +4,12 @@
 **YouTube Demo:**(https://youtu.be/poSM_C63L8c)
 
 
-**Demo UI :** ![Alt text](./bg.jpg)
+**Demo UI :** ![Alt text](./demo.png)
 
 
 
 ## Build with ❤️ and 
-HTML5, Vanila CSS, Vanila JS
+HTML5, Vanila CSS, Vanila Js
 
 You can use this for managing your work🔥
 

@@ -2,7 +2,7 @@
 # To Do App
 
 **YouTube Demo:**(https://youtu.be/poSM_C63L8c)
-**Live Link: ** (https://todo-application-selise.netlify.app/)
+**Live Link:** (https://todo-application-selise.netlify.app/)
 
 
 **Demo UI :** ![Alt text](./demo.png)
